@@ -205,3 +205,22 @@ Prompt engineering is the process of crafting and refining inputs (prompts) give
 5. Adapting to Different Models: Different AI models may respond variably to similar prompts. Understanding how to tailor prompts for specific models (like GPT-3 vs. Google Bard) can lead to better performance and outcomes.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague prompt:
+"Write about technology."
+
+Improved prompt:
+"Explain three ways artificial intelligence is currently being used in healthcare, providing a specific example for each."
+
+The improved prompt is more effective because:
+
+1. Specificity: It narrows the broad topic of "technology" to a specific aspect (artificial intelligence in healthcare).
+
+2. Clear structure: It requests three distinct ways AI is used, making the expected response format clear.
+
+3. Concrete examples: It asks for specific examples, which will result in more informative and practical content.
+
+4. Focused scope: By specifying "currently being used," it avoids speculation and focuses on real-world applications.
+
+5. Actionable: The prompt gives clear direction, making it easier for the responder to provide relevant and valuable information.
+
+This improved prompt is likely to yield a more informative, structured, and useful response compared to the vague original prompt, which could lead to a wide range of interpretations and unfocused answers.
