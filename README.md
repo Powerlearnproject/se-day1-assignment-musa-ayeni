@@ -17,10 +17,21 @@ Importance in the Technology Industry.
 9. Economics Impact.
 
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+Identify and describe at least three key milestones in the evolution of software engineering:
+1. The NATO Software Engineering Conference(1968-1969). The birth of software Engineering.
+2. The Introduction of structured programming(Late1960s-1970s): Led to the development of language like Pascal that supported structured programming principles. also introduced concepts like modular programming top-down design, and elimination of GOTO statements.
+3. The rise of the Object-oriented programming(OOP)(1980s-1990s). Emerged with language like Smalltalk and gained widespread adoption with c++ and later JAVA.
+shifted focus from procedures to Objects that combines data and behavior.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+1. Planning: Defines the scope and purpose of the application.
+2. Requirements Analysis: Creates a software requirement specifications.(SRS) documents also gathers detailed requirements from stakeholders.
+3. Design: creates high-level architecture and low-level detailed design.
+4. Implementation: Translates the design into actual code.
+5. Testing: verifies that the software meet the specified requirements.
+6. Deployment: Moves the software from the development environment to the production environment.
+7. Maintenance and support: Addresses issues reported by users.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
