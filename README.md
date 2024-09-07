@@ -60,7 +60,38 @@ Characteristics
 - Innovative Products: Ideal for projects that involve developing new products where user feedback is crucial for refinement.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Software Developer
 
+- Designs, develops, and maintains software applications
+- Writes clean, efficient, and well-documented code
+- Collaborates with the team to understand requirements and design solutions
+- Conducts unit testing and debugging of code
+- Participates in code reviews and pair programming
+- Stays up-to-date with the latest technologies and best practices
+
+Quality Assurance (QA) Engineer 
+
+- Reviews requirements, specifications and technical design documents to provide feedback
+- Creates detailed test plans and test cases
+- Estimates, prioritizes, and coordinates testing activities
+- Designs, develops and executes automated tests
+- Identifies, records and tracks bugs
+- Performs regression testing 
+- Develops testing processes for new and existing products
+- Collaborates with developers to resolve issues
+- Tracks quality metrics like defect densities and open defect counts
+
+Project Manager
+
+- Manages the overall software development project 
+- Defines project scope, objectives and deliverables
+- Develops and maintains project plans and schedules
+- Assigns tasks and responsibilities to team members
+- Monitors progress and identifies risks and issues
+- Communicates project status to stakeholders
+- Ensures projects are completed on time and within budget
+- Manages scope changes and project documentation
+- Conducts project retrospectives and implements process improvements
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
